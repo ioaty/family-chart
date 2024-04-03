@@ -6,7 +6,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+npm install --global yarn
+yarn install
+yarn startNode17
 
 <!-- PROJECT LOGO -->
 <br />
