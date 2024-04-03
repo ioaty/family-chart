@@ -6,9 +6,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-npm install --global yarn
-yarn install
-yarn startNode17
+## How to use
+npm install --global yarn     <br />
+yarn install     <br />
+yarn startNode17     <br />
 
 <!-- PROJECT LOGO -->
 <br />
