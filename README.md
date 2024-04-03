@@ -15,9 +15,6 @@ http://localhost/ <br />
 or  <br />
 http://localhost/examples/create-tree/
 
-npm install --global yarn     <br />
-yarn install     <br />
-yarn startNode17     <br />
 
 <!-- PROJECT LOGO -->
 <br />
