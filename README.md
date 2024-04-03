@@ -11,7 +11,7 @@ forked from:  <br />
 https://github.com/donatso/family-chart?tab=readme-ov-file
 
 ## How to use
-[http://localhost/ <br />
+http://localhost/ <br />
 or  <br />
 http://localhost/examples/create-tree/
 
