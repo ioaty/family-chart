@@ -11,6 +11,9 @@ forked from:  <br />
 https://github.com/donatso/family-chart?tab=readme-ov-file
 
 ## How to use
+[http://localhost/
+http://localhost/examples/create-tree/
+
 npm install --global yarn     <br />
 yarn install     <br />
 yarn startNode17     <br />
